@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail Enes Ayhan</h1>
 <h3 align="center">User Interface Designer in Erciyes Anadolu Holding</h3>
 
-- 🔭 I’m currently working on **Gatby Static Site Generators**
+- 🔭 I’m currently working on ** WP REST API to React**
 
 - 👨‍💻 All of my projects are available at [http://ismailenesayhan.com/projects](http://ismailenesayhan.com/projects)
 
