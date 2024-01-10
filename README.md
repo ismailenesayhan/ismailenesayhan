@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Enes Ayhan</h1>
-<h3 align="center">User Interface Designer in Erciyes Anadolu Holding</h3>
+<h3 align="center">User Interface Designer in Kayseri</h3>
 
 - 🔭 I’m currently working on **GSAP Animations**
 
